@@ -87,7 +87,7 @@ treefiy help
 
 ## ⛏️ Architecture 
 
-![Component Diagram](images/Architecture%20of%20treefiy.drawio.png "High‑level Component Diagram")
+![Component Diagram](images/Architecture%20of%20treefiy.jpg "High‑level Component Diagram")
 
 ---
 
