@@ -1,0 +1,625 @@
+{
+  ".git": {
+    "name": ".git",
+    "isDirectory": true,
+    "children": {
+      "hooks": {
+        "name": "hooks",
+        "isDirectory": true,
+        "children": {
+          "applypatch-msg.sample": {
+            "name": "applypatch-msg",
+            "isDirectory": false,
+            "extention": "sample"
+          },
+          "commit-msg.sample": {
+            "name": "commit-msg",
+            "isDirectory": false,
+            "extention": "sample"
+          },
+          "fsmonitor-watchman.sample": {
+            "name": "fsmonitor-watchman",
+            "isDirectory": false,
+            "extention": "sample"
+          },
+          "post-update.sample": {
+            "name": "post-update",
+            "isDirectory": false,
+            "extention": "sample"
+          },
+          "pre-applypatch.sample": {
+            "name": "pre-applypatch",
+            "isDirectory": false,
+            "extention": "sample"
+          },
+          "pre-commit.sample": {
+            "name": "pre-commit",
+            "isDirectory": false,
+            "extention": "sample"
+          },
+          "pre-merge-commit.sample": {
+            "name": "pre-merge-commit",
+            "isDirectory": false,
+            "extention": "sample"
+          },
+          "pre-push.sample": {
+            "name": "pre-push",
+            "isDirectory": false,
+            "extention": "sample"
+          },
+          "pre-rebase.sample": {
+            "name": "pre-rebase",
+            "isDirectory": false,
+            "extention": "sample"
+          },
+          "pre-receive.sample": {
+            "name": "pre-receive",
+            "isDirectory": false,
+            "extention": "sample"
+          },
+          "prepare-commit-msg.sample": {
+            "name": "prepare-commit-msg",
+            "isDirectory": false,
+            "extention": "sample"
+          },
+          "push-to-checkout.sample": {
+            "name": "push-to-checkout",
+            "isDirectory": false,
+            "extention": "sample"
+          },
+          "sendemail-validate.sample": {
+            "name": "sendemail-validate",
+            "isDirectory": false,
+            "extention": "sample"
+          },
+          "update.sample": {
+            "name": "update",
+            "isDirectory": false,
+            "extention": "sample"
+          }
+        }
+      },
+      "info": {
+        "name": "info",
+        "isDirectory": true,
+        "children": {
+          "exclude": {
+            "name": "exclud",
+            "isDirectory": false,
+            "extention": ""
+          }
+        }
+      },
+      "logs": {
+        "name": "logs",
+        "isDirectory": true,
+        "children": {
+          "refs": {
+            "name": "refs",
+            "isDirectory": true,
+            "children": null
+          },
+          "HEAD": {
+            "name": "HEA",
+            "isDirectory": false,
+            "extention": ""
+          }
+        }
+      },
+      "objects": {
+        "name": "objects",
+        "isDirectory": true,
+        "children": {
+          "17": {
+            "name": "17",
+            "isDirectory": true,
+            "children": null
+          },
+          "18": {
+            "name": "18",
+            "isDirectory": true,
+            "children": null
+          },
+          "32": {
+            "name": "32",
+            "isDirectory": true,
+            "children": null
+          },
+          "35": {
+            "name": "35",
+            "isDirectory": true,
+            "children": null
+          },
+          "43": {
+            "name": "43",
+            "isDirectory": true,
+            "children": null
+          },
+          "56": {
+            "name": "56",
+            "isDirectory": true,
+            "children": null
+          },
+          "58": {
+            "name": "58",
+            "isDirectory": true,
+            "children": null
+          },
+          "62": {
+            "name": "62",
+            "isDirectory": true,
+            "children": null
+          },
+          "70": {
+            "name": "70",
+            "isDirectory": true,
+            "children": null
+          },
+          "79": {
+            "name": "79",
+            "isDirectory": true,
+            "children": null
+          },
+          "80": {
+            "name": "80",
+            "isDirectory": true,
+            "children": null
+          },
+          "88": {
+            "name": "88",
+            "isDirectory": true,
+            "children": null
+          },
+          "89": {
+            "name": "89",
+            "isDirectory": true,
+            "children": null
+          },
+          "91": {
+            "name": "91",
+            "isDirectory": true,
+            "children": null
+          },
+          "94": {
+            "name": "94",
+            "isDirectory": true,
+            "children": null
+          },
+          "97": {
+            "name": "97",
+            "isDirectory": true,
+            "children": null
+          },
+          "98": {
+            "name": "98",
+            "isDirectory": true,
+            "children": null
+          },
+          "01": {
+            "name": "01",
+            "isDirectory": true,
+            "children": null
+          },
+          "1d": {
+            "name": "1d",
+            "isDirectory": true,
+            "children": null
+          },
+          "2b": {
+            "name": "2b",
+            "isDirectory": true,
+            "children": null
+          },
+          "3a": {
+            "name": "3a",
+            "isDirectory": true,
+            "children": null
+          },
+          "3f": {
+            "name": "3f",
+            "isDirectory": true,
+            "children": null
+          },
+          "4b": {
+            "name": "4b",
+            "isDirectory": true,
+            "children": null
+          },
+          "4d": {
+            "name": "4d",
+            "isDirectory": true,
+            "children": null
+          },
+          "4e": {
+            "name": "4e",
+            "isDirectory": true,
+            "children": null
+          },
+          "5c": {
+            "name": "5c",
+            "isDirectory": true,
+            "children": null
+          },
+          "5e": {
+            "name": "5e",
+            "isDirectory": true,
+            "children": null
+          },
+          "7b": {
+            "name": "7b",
+            "isDirectory": true,
+            "children": null
+          },
+          "8e": {
+            "name": "8e",
+            "isDirectory": true,
+            "children": null
+          },
+          "9c": {
+            "name": "9c",
+            "isDirectory": true,
+            "children": null
+          },
+          "9d": {
+            "name": "9d",
+            "isDirectory": true,
+            "children": null
+          },
+          "9e": {
+            "name": "9e",
+            "isDirectory": true,
+            "children": null
+          },
+          "a0": {
+            "name": "a0",
+            "isDirectory": true,
+            "children": null
+          },
+          "a1": {
+            "name": "a1",
+            "isDirectory": true,
+            "children": null
+          },
+          "a4": {
+            "name": "a4",
+            "isDirectory": true,
+            "children": null
+          },
+          "a7": {
+            "name": "a7",
+            "isDirectory": true,
+            "children": null
+          },
+          "ae": {
+            "name": "ae",
+            "isDirectory": true,
+            "children": null
+          },
+          "b0": {
+            "name": "b0",
+            "isDirectory": true,
+            "children": null
+          },
+          "b3": {
+            "name": "b3",
+            "isDirectory": true,
+            "children": null
+          },
+          "b9": {
+            "name": "b9",
+            "isDirectory": true,
+            "children": null
+          },
+          "be": {
+            "name": "be",
+            "isDirectory": true,
+            "children": null
+          },
+          "c0": {
+            "name": "c0",
+            "isDirectory": true,
+            "children": null
+          },
+          "c2": {
+            "name": "c2",
+            "isDirectory": true,
+            "children": null
+          },
+          "c9": {
+            "name": "c9",
+            "isDirectory": true,
+            "children": null
+          },
+          "d2": {
+            "name": "d2",
+            "isDirectory": true,
+            "children": null
+          },
+          "d3": {
+            "name": "d3",
+            "isDirectory": true,
+            "children": null
+          },
+          "d5": {
+            "name": "d5",
+            "isDirectory": true,
+            "children": null
+          },
+          "d6": {
+            "name": "d6",
+            "isDirectory": true,
+            "children": null
+          },
+          "da": {
+            "name": "da",
+            "isDirectory": true,
+            "children": null
+          },
+          "e0": {
+            "name": "e0",
+            "isDirectory": true,
+            "children": null
+          },
+          "e6": {
+            "name": "e6",
+            "isDirectory": true,
+            "children": null
+          },
+          "e9": {
+            "name": "e9",
+            "isDirectory": true,
+            "children": null
+          },
+          "ea": {
+            "name": "ea",
+            "isDirectory": true,
+            "children": null
+          },
+          "ee": {
+            "name": "ee",
+            "isDirectory": true,
+            "children": null
+          },
+          "f0": {
+            "name": "f0",
+            "isDirectory": true,
+            "children": null
+          },
+          "f8": {
+            "name": "f8",
+            "isDirectory": true,
+            "children": null
+          },
+          "f9": {
+            "name": "f9",
+            "isDirectory": true,
+            "children": null
+          },
+          "fa": {
+            "name": "fa",
+            "isDirectory": true,
+            "children": null
+          },
+          "fc": {
+            "name": "fc",
+            "isDirectory": true,
+            "children": null
+          },
+          "info": {
+            "name": "info",
+            "isDirectory": true,
+            "children": null
+          },
+          "pack": {
+            "name": "pack",
+            "isDirectory": true,
+            "children": null
+          }
+        }
+      },
+      "refs": {
+        "name": "refs",
+        "isDirectory": true,
+        "children": {
+          "heads": {
+            "name": "heads",
+            "isDirectory": true,
+            "children": null
+          },
+          "remotes": {
+            "name": "remotes",
+            "isDirectory": true,
+            "children": null
+          },
+          "tags": {
+            "name": "tags",
+            "isDirectory": true,
+            "children": null
+          }
+        }
+      },
+      "COMMIT_EDITMSG": {
+        "name": "COMMIT_EDITMS",
+        "isDirectory": false,
+        "extention": ""
+      },
+      "config": {
+        "name": "confi",
+        "isDirectory": false,
+        "extention": ""
+      },
+      "description": {
+        "name": "descriptio",
+        "isDirectory": false,
+        "extention": ""
+      },
+      "HEAD": {
+        "name": "HEA",
+        "isDirectory": false,
+        "extention": ""
+      },
+      "index": {
+        "name": "inde",
+        "isDirectory": false,
+        "extention": ""
+      }
+    }
+  },
+  "example": {
+    "name": "example",
+    "isDirectory": true,
+    "children": {}
+  },
+  "scripts": {
+    "name": "scripts",
+    "isDirectory": true,
+    "children": {}
+  },
+  "src": {
+    "name": "src",
+    "isDirectory": true,
+    "children": {
+      ".config": {
+        "name": ".config",
+        "isDirectory": true,
+        "children": {
+          "cached-config": {
+            "name": "cached-config",
+            "isDirectory": true,
+            "children": null
+          },
+          "cliStyleConfig.js": {
+            "name": "cliStyleConfig",
+            "isDirectory": false,
+            "extention": "js"
+          },
+          "defaultConfig.js": {
+            "name": "defaultConfig",
+            "isDirectory": false,
+            "extention": "js"
+          },
+          "logger.js": {
+            "name": "logger",
+            "isDirectory": false,
+            "extention": "js"
+          }
+        }
+      },
+      "api": {
+        "name": "api",
+        "isDirectory": true,
+        "children": {
+          "functions.js": {
+            "name": "functions",
+            "isDirectory": false,
+            "extention": "js"
+          },
+          "server.js": {
+            "name": "server",
+            "isDirectory": false,
+            "extention": "js"
+          }
+        }
+      },
+      "cli": {
+        "name": "cli",
+        "isDirectory": true,
+        "children": {
+          "commands": {
+            "name": "commands",
+            "isDirectory": true,
+            "children": null
+          },
+          "index.js": {
+            "name": "index",
+            "isDirectory": false,
+            "extention": "js"
+          }
+        }
+      },
+      "constants": {
+        "name": "constants",
+        "isDirectory": true,
+        "children": {
+          "cmdAlias.js": {
+            "name": "cmdAlias",
+            "isDirectory": false,
+            "extention": "js"
+          },
+          "outFormat.js": {
+            "name": "outFormat",
+            "isDirectory": false,
+            "extention": "js"
+          }
+        }
+      },
+      "core": {
+        "name": "core",
+        "isDirectory": true,
+        "children": {
+          "ui": {
+            "name": "ui",
+            "isDirectory": true,
+            "children": null
+          },
+          "index.js": {
+            "name": "index",
+            "isDirectory": false,
+            "extention": "js"
+          }
+        }
+      },
+      "utils": {
+        "name": "utils",
+        "isDirectory": true,
+        "children": {
+          "fs.js": {
+            "name": "fs",
+            "isDirectory": false,
+            "extention": "js"
+          },
+          "handleConfigs.js": {
+            "name": "handleConfigs",
+            "isDirectory": false,
+            "extention": "js"
+          },
+          "index.js": {
+            "name": "index",
+            "isDirectory": false,
+            "extention": "js"
+          },
+          "parseConfig.js": {
+            "name": "parseConfig",
+            "isDirectory": false,
+            "extention": "js"
+          },
+          "spinner.js": {
+            "name": "spinner",
+            "isDirectory": false,
+            "extention": "js"
+          }
+        }
+      }
+    }
+  },
+  "tests": {
+    "name": "tests",
+    "isDirectory": true,
+    "children": {}
+  },
+  "LICENSE": {
+    "name": "LICENS",
+    "isDirectory": false,
+    "extention": ""
+  },
+  "package.json": {
+    "name": "package",
+    "isDirectory": false,
+    "extention": "json"
+  },
+  "README.md": {
+    "name": "README",
+    "isDirectory": false,
+    "extention": "md"
+  }
+}

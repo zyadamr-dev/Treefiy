@@ -7,6 +7,12 @@ import logger from "../.config/logger.js";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+/**
+ * Load the default config
+ * 
+ * @returns {object|null}
+ */
+
 export function loadDefault() {
     const configPath = path.join(__dirname, "../.config/defaultConfig.js");
 
@@ -18,6 +24,13 @@ export function loadDefault() {
         }
     }
 }
+
+/**
+ * Merge default config with updated config
+ * 
+ * @param {object} updatedUserConfig 
+ * @returns {object}
+ */
 
 export function saveConfigs(updatedUserConfig) {
     return { ...defaultConfig, ...updatedUserConfig };

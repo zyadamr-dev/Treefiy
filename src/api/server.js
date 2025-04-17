@@ -54,7 +54,7 @@ app.get("/api/config", (req, reply) => {
     reply.status(200).send(getCurrentConfig());
 });
 
-app.listen({ port: 21520 }, (err, address) => {
+app.listen({ port: 21520 }, (err, address) => { // TODO: add config to control port number
     if (err) {
         logger.error("🚨 Error starting server:", err);
         process.exit(1);

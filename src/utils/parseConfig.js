@@ -11,6 +11,13 @@ function toBool(val) {
     return val;
 }
 
+/**
+ * Parse the arguments from cli interface and save config
+ * 
+ * @param {object} args 
+ * @returns {object}
+ */
+
 export function parseConfig(args) {
     const updatedConfig = loadDefault();
     const flagKeys = Object.keys(args).filter((k) => k !== "_");
