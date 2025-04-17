@@ -57,7 +57,7 @@ treefiy help
 ```
 
 ## 🗂️ Project Structure
-
+```bash
 ├── src/
 │   ├── .config/               # App configuration & logging
 │   │   ├── cached-config/     # Cached user configs
@@ -82,7 +82,7 @@ treefiy help
 │       └── index.js
 ├── LICENSE
 └── package.json
-
+```
 --- 
 
 ## ⛏️ Architecture 
